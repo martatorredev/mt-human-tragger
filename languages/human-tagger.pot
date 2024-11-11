@@ -1,1 +1,1 @@
-
+wp i18n make-pot . languages/human-tagger.pot
