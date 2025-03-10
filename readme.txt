@@ -1,4 +1,4 @@
-=== Human Tagger ===
+=== MT Human Tagger ===
 Contributors: martatorre
 Tags: humans.txt, SEO, metadata, FSE, site editor
 Requires at least: 6.0
